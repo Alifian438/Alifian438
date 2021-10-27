@@ -1,5 +1,6 @@
 <p align="center">
-<a href="#" style="align-item:center;"><img width="auto" height="auto" src="https://user-images.githubusercontent.com/70007683/139062605-6eea390c-5ce8-4acb-82a6-6a83ea6935a8.gif" height="175px"/></a>
+
+<a href="#" style="align-item:center;"><img width="auto" height="auto" src="https://user-images.githubusercontent.com/70007683/139066320-b3de81cb-8e57-4a85-a285-dfea9b654927.gif" height="175px"/></a>
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Alifian</h1>
