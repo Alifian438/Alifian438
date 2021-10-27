@@ -7,8 +7,5 @@
 <a href="https://www.youtube.com/channel/UCtWDNqh3Th4T4Jskto6dlJQ">
   <img align="left" alt="Alifian's Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
-<a href="https://www.instagram.com/m.alifian/">
-  <img align="left" alt="Alifian's Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
-</a>
 
 
