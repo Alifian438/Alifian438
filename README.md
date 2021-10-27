@@ -20,7 +20,7 @@ hi, i'm [Abhishek Naidu](https://abhishknads.me/), a passionate self-taught full
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="![68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f31636d646a33776f706c526b4b413d3d2d3637363937313239382e31353736643836653530396361323136363730383731](https://user-images.githubusercontent.com/70007683/139057460-60f3190e-ea55-471c-b9ee-98affc29b722.gif)" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
 - 💬 ask me about anything, i am happy to help;
