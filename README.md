@@ -70,7 +70,6 @@
 <h3 align="center">Connect with me</h3>
 
 <p align="center">
-<a href = "https://twitter.com/alipian_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/m.alifian/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UCtWDNqh3Th4T4Jskto6dlJQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 </p>
