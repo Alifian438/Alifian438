@@ -21,7 +21,7 @@
 <a href="https://www.linkedin.com/in/muhammad-rizky-alifian-sarodi-a99619245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alifian438" height="30" width="40" /></a>
 <a href="https://www.instagram.com/m.alifian/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alifian438" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCtWDNqh3Th4T4Jskto6dlJQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alifian438" height="30" width="40" /></a>
-<a href="https://steamcommunity.com/id/alifian438/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/steam.svg" alt="alifian438" height="30" width="40" /></a>
+<a href="https://steamcommunity.com/id/alifian438/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/800px-Steam_icon_logo.svg.png" alt="alifian438" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
