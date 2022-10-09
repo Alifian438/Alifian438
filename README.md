@@ -36,4 +36,7 @@
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/2560px-Arduino_Logo.svg.png" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/id_en/products/photoshop/landpa.html?gclid=CjwKCAjws--ZBhAXEiwAv-RNL2X_kIhEGdmNefu7ODekg1LfOVtnSReK2Y1ZiJ-Md9zDId6Ojoet0RoC-3YQAvD_BwE&sdid=85665QDS&mv=search&ef_id=CjwKCAjws--ZBhAXEiwAv-RNL2X_kIhEGdmNefu7ODekg1LfOVtnSReK2Y1ZiJ-Md9zDId6Ojoet0RoC-3YQAvD_BwE:G:s&s_kwcid=AL!3085!3!444512448900!e!!g!!photoshop!703952628!38400836578" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/id_en/products/premiere.html?gclid=CjwKCAjws--ZBhAXEiwAv-RNL_NQrxTN0_625TWv6CCu4Jju4QKaYH61v8QCN-4R85xhJnNw7nMAzBoCczUQAvD_BwE&sdid=8DN85GXQ&mv=search&ef_id=CjwKCAjws--ZBhAXEiwAv-RNL_NQrxTN0_625TWv6CCu4Jju4QKaYH61v8QCN-4R85xhJnNw7nMAzBoCczUQAvD_BwE:G:s&s_kwcid=AL!3085!3!473940110382!e!!g!!premiere%20pro!703952808!38400810458" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/2101px-Adobe_Premiere_Pro_CC_icon.svg.png" width="40" height="40"/> </a>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alifian438&theme=dark" alt="alifian438" />
 </p>
+
+
