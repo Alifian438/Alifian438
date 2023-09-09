@@ -3,7 +3,6 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 
-<p align="left"> <a href="https://www.youtube.com/channel/UCtWDNqh3Th4T4Jskto6dlJQ?sub_confirmation=1" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCtWDNqh3Th4T4Jskto6dlJQ?style=social" alt="alifian438" /></a> </p>
 
 
 - 🌱 I’m currently learning **React JS, Laravel, and Golang**
